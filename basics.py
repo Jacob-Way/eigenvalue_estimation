@@ -1,6 +1,4 @@
-from matplotlib import pyplot as plt
 import numpy as np
-import sys
 def gersh(A):
     #Input a matrix, output a tuple containing the centers of the cirles and the radii of the circles
     n=len(A)
